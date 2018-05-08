@@ -36,3 +36,11 @@ imooc-security-authorize/.classpath
 *.classpath
 *.factorypath
 imooc-security/.settings/org.eclipse.m2e.core.prefs
+.idea/
+imooc-security-app/imooc-security-app.iml
+imooc-security-authorize/imooc-security-authorize.iml
+imooc-security-browser/imooc-security-browser.iml
+imooc-security-core/imooc-security-core.iml
+imooc-security-demo/imooc-security-demo.iml
+imooc-security/.idea/
+imooc-security/imooc-security.iml
